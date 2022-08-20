@@ -1,6 +1,6 @@
 <h1 algin="center">Hello, I am SoraSen :eyes:</h1>
 
-<h3 algin=center"> ✨ a Student for Web-Dev from Germany ✨ <h3/>
+<h3 algin=center"> ✨ a Student for Web-Dev from Germany ✨ </h3>
 
 
 

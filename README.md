@@ -17,7 +17,7 @@
 
 
 
-## -  i like: 
+##  i like: 
 - :heart: my Family 
 - :video_game: Gaming
 - :notes: Music 

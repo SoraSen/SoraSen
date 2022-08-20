@@ -7,7 +7,7 @@
 
 
 
-- ### :metal: I’m currently learning:
+ ### :metal: I’m currently learning:
 
 - ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `html`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `css`
